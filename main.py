@@ -7,11 +7,11 @@ from prepare import update_excel_file
 import sys
 
 if sys.platform == "win" :
-    path = "/home/vinpuch/Dokumente/IdeaProjects/finanzen/Daten"
+    path = "/home/vinpuch/Dokumente/IdeaProjects/fin/Daten"
 elif sys.platform == "darwin":
     path = "/Users/vincentpuchner/Dokumente/IdeaProjects/fin/Daten"
 elif sys.platform == "linux":
-    path="/home/user/Dokumente/Idea Projects/fin/Daten/4_2023.xlsx"
+    path="/home/user/Dokumente/IdeaProjects/fin/Daten"
 
 
 
